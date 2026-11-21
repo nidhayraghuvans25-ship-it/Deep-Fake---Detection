@@ -12,8 +12,6 @@ dlib
 matplotlib
 tqdm
 Setup
-Clone this repository:
-git clone https://github.com/arshakshan/Deepfake-Detection.git
 cd deepfake_detection_model
 Create a virtual environment:
 python -m venv venv
